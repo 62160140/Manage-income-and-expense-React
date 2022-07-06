@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&family=Sarabun:ital,wght@1,100&family=Sriracha&display=swap');
+
+*{
+  box-sizing: border-box; /* อ้างอิงตามขนาดจริง */
+  font-family: 'Prompt', sans-serif;
+} 
+
+body{
+  background: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.container{
+  margin: 30px auto;
+  width: 350px;
+}
+
+
+.horizontal-menu{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #333;
+  text-align: center;
+}
+
+.horizontal-menu li{
+  display: inline-block;
+}
+
+.horizontal-menu a{
+  color: #fff;
+  text-decoration: none;
+  padding: 16px;
+  display: block;
+
+}
+
