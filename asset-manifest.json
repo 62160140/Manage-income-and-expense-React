@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Manage-income-and-expense-React/static/css/main.ac364a66.css",
+    "main.js": "/Manage-income-and-expense-React/static/js/main.76c71bd4.js",
+    "static/js/787.293c2eec.chunk.js": "/Manage-income-and-expense-React/static/js/787.293c2eec.chunk.js",
+    "index.html": "/Manage-income-and-expense-React/index.html",
+    "main.ac364a66.css.map": "/Manage-income-and-expense-React/static/css/main.ac364a66.css.map",
+    "main.76c71bd4.js.map": "/Manage-income-and-expense-React/static/js/main.76c71bd4.js.map",
+    "787.293c2eec.chunk.js.map": "/Manage-income-and-expense-React/static/js/787.293c2eec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac364a66.css",
+    "static/js/main.76c71bd4.js"
+  ]
+}
